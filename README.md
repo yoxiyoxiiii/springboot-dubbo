@@ -10,4 +10,5 @@ zk 安装
 
 4: 启动。
   win ：/bin/zkServer.cmd
+  
   linux: /bin/zkServer.sh
