@@ -36,7 +36,6 @@
         <dependency>
             <groupId>cn.kr</groupId>
             <artifactId>doubbo-interface</artifactId>
-            <version>1.0-SNAPSHOT</version>
         </dependency>
 
         <dependency>

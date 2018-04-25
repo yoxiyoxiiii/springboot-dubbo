@@ -1,5 +1,6 @@
 bootdoubbo.iml
 doubbo-provider.iml
 doubbo-customer.iml
+doubbo-interface.iml
 .idea
 target

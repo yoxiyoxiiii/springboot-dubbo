@@ -26,6 +26,7 @@
     <dubbo.version>2.5.10</dubbo.version>
     <zkclient.version>0.2</zkclient.version>
     <zookeeper.version>3.4.9</zookeeper.version>
+    <bootdubbo.version>1.0-SNAPSHOT</bootdubbo.version>
   </properties>
 
 
@@ -92,6 +93,11 @@
         <groupId>org.slf4j</groupId>
       </exclusion>
     </exclusions>
+  </dependency>
+  <dependency>
+    <groupId>cn.kr</groupId>
+    <artifactId>doubbo-interface</artifactId>
+    <version>${bootdubbo.version}</version>
   </dependency>
 
 
