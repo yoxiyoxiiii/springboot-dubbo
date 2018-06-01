@@ -9,7 +9,7 @@ import org.springframework.context.annotation.ImportResource;
  *
  */
 @SpringBootApplication
-@ImportResource(locations={"classpath:doubbo-customer.xml"})
+@ImportResource(locations={"classpath:doubbo-customer.xml","classpath:provider.xml"})
 public class CustomerApp
 {
     public static void main( String[] args )
